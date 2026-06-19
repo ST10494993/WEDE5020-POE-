@@ -124,3 +124,5 @@ MDN web Docs
 W3Schools
 
 ## UPDATED README FOR PART 3
+
+## robots.txt and sitemap.xml

@@ -101,3 +101,26 @@ CONTACT
 •	W3Schools. (2026) HTML tutorial. Available at: https://www.w3schools.com (Accessed: 14 April 2026).
 •	Mozilla Developer Network (MDN). (2026) HTML documentation. Available at: https://developer.mozilla.org (Accessed: 14 April 2026).
 
+## PART 3 UPDATES
+Features added
+JavaScript form validation
+Google Maps integration
+SEO meta tags
+Responsive image gallery
+Alt text added to images
+
+Changelog
+Part 3
+Created script.js
+Added form validation to enquiry page
+Embedded Google Maps on contact page
+Added SEO optimisation tags
+Added image alt text
+lmporved user experience and accessibilty
+
+References
+Google Mpas
+MDN web Docs
+W3Schools
+
+## UPDATED README FOR PART 3
